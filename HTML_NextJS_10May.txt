@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python Homepage Recreation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <img src="logo.png" alt="Python Logo">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Downloads</a></li>
+                    <li><a href="#">Documentation</a></li>
+                    <li><a href="#">Community</a></li>
+                    <li><a href="#">Success Stories</a></li>
+                    <li><a href="#">News</a></li>
+                    <li><a href="#">Events</a></li>
+                </ul>
+            </nav>
+            <div class="search">
+                <input type="text" placeholder="Search">
+                <button>Go</button>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="hero">
+            <h1>Python is a programming language that lets you work quickly and integrate systems more effectively.</h1>
+            <a href="#">Learn More</a>
+        </div>
+        <section class="features">
+            <div class="container">
+                <div class="feature">
+                    <h2>Get Started</h2>
+                    <p>Python is an easy to learn, powerful programming language.</p>
+                </div>
+                <div class="feature">
+                    <h2>Download</h2>
+                    <p>Download the latest version of Python.</p>
+                </div>
+                <div class="feature">
+                    <h2>Docs</h2>
+                    <p>Find Python documentation and tutorials.</p>
+                </div>
+                <div class="feature">
+                    <h2>Jobs</h2>
+                    <p>Looking for work or have a Python related job to offer?</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Python Software Foundation</p>
+        </div>
+    </footer>
+</body>
+</html>
